@@ -32,4 +32,4 @@ const style = StyleSheet.create({
     },
 });
 
-export default Shadow; 
+export default Shadow;
